@@ -1,3 +1,7 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/Tarnyko/chromium-tools
+[submodule "ozone"]
+	path = ozone
+	url = https://github.com/01org/ozone-wayland.git
+	branch = 9816917277df5defa2d2787aeea3c857465714dc
